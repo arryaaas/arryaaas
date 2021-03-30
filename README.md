@@ -1,6 +1,16 @@
-### Hi there 👋
+**Hello** my name is Mochammad Arya Salsabila, but simply call me Arya. I am a Computer Science student at [UPN "Veteran" Jawa Timur](https://upnjatim.ac.id).
 
 <!--
+![](http://img.shields.io/badge/-Android%20Studio-lightgrey?logo=android-studio&style=flat&logoColor=white&color=3DDC84)
+![](http://img.shields.io/badge/-Visual%20Studio%20Code-lightgrey?logo=visual-studio-code&style=flat&logoColor=white&color=007ACC)
+![](http://img.shields.io/badge/-Jupyter%20Notebook-lightgrey?logo=jupyter&style=flat&logoColor=white&color=F37626)
+![](http://img.shields.io/badge/-C++-lightgrey?logo=c%2B%2B&style=flat&logoColor=white&color=00599C)
+![](http://img.shields.io/badge/-Kotlin-lightgrey?logo=kotlin&style=flat&logoColor=white&color=0095D5)
+![](http://img.shields.io/badge/-Python-lightgrey?logo=python&style=flat&logoColor=white&color=3776AB)
+![](http://img.shields.io/badge/-Flask-lightgrey?logo=flask&style=flat&logoColor=white&color=4d4d4d)
+![](http://img.shields.io/badge/-NumPy-lightgrey?logo=numpy&style=flat&logoColor=white&color=013243)
+![](http://img.shields.io/badge/-Pandas-lightgrey?logo=pandas&style=flat&logoColor=white&color=150458)
+
 **arryaaas/arryaaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
