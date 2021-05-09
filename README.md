@@ -4,6 +4,7 @@ I'm a Computer Science student at [UPN "Veteran" Jawa Timur](https://upnjatim.ac
 
 You can find me in :
 [Instagram](https://www.instagram.com/arryaaas/?hl=en) || 
+[LinkedIn](https://www.linkedin.com/in/mochammad-arya-salsabila) ||
 [Medium](https://arryaaas.medium.com) ||
 [Twitter](https://twitter.com/Arryaaas) ||
 [YouTube](https://www.youtube.com/channel/UCjnykzOYu-miKRLTpt62hjg)
